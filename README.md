@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1672-richest-customer-wealth](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1207-unique-number-of-occurrences](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
