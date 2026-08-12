@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1207-unique-number-of-occurrences](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1672-richest-customer-wealth](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Binary Search
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 ## Divide and Conquer
 |  |
 | ------- |
