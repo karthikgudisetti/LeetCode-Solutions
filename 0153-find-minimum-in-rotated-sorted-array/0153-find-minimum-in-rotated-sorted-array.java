@@ -5,11 +5,11 @@ class Solution {
         int ans=-1;
         while(l<r){
             int mid=l+(r-l)/2;
-             if(nums[mid]==nums[l]&&nums[r]==nums[mid]){
-                l++;
-                r--;
-             }
-             else if(nums[r]<nums[mid]){
+            //  if(nums[mid]==nums[l]&&nums[r]==nums[mid]){
+            //     l++;
+            //     r--;
+            //  }
+            if(nums[r]<nums[mid]){
                 l=mid+1;
              }
              else{
