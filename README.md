@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Binary Search
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
