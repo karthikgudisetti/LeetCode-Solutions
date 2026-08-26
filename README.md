@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0930-binary-subarrays-with-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -136,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+## Counting
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
