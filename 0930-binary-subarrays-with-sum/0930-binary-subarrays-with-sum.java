@@ -1,27 +1,20 @@
 class Solution {
-    public int nsum(int[] nums,int goal){
-        int sum = 0;
-        int i = 0;
-        int j = 0;
-        int n = nums.length;
-        int count = 0;
-        if(goal<0){
-            return 0;
-        }
-        while (j < n) {
-        sum+=nums[j];
-        while(sum>goal){
-            sum-=nums[i];
-            i++;
-        }
-        count+=j-i+1;
-            j++;
+    
+        
+    public int numSubarraysWithSum(int[] nums, int goal) {
+       int count=0;
+       for(int i=0;i<nums.length;i++){
+        int sum=0;
+        for(int j=i;j<nums.length;j++){
+            sum+=nums[j];
+            if(sum==goal){
+                count++;
+            }
 
         }
-        return count;
-    }
-    public int numSubarraysWithSum(int[] nums, int goal) {
-        return nsum(nums,goal)-nsum(nums,goal-1);
+
+       }
+       return count;
 
     }
 }
