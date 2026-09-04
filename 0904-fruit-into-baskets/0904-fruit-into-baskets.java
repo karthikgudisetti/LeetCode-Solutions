@@ -8,7 +8,7 @@ class Solution {
       Map<Integer,Integer> map= new HashMap<>();
        while(i<n){
         map.put(fruits[i],map.getOrDefault(fruits[i],0)+1);
-        if(map.size()>k){
+        while(map.size()>k){
             map.put(fruits[j],map.get(fruits[j])-1);
             if(map.get(fruits[j])==0){
                 map.remove(fruits[j]);
