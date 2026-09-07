@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Trie
 |  |
@@ -175,5 +177,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
