@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Timsort
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
