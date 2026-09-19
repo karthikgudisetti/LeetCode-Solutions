@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [1248-count-number-of-nice-subarrays](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/3870-count-commas-in-range) |
@@ -200,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
