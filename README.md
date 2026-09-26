@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1550-three-consecutive-odds) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
