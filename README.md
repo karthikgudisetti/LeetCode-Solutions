@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0354-russian-doll-envelopes](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0485-max-consecutive-ones](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0354-russian-doll-envelopes](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0354-russian-doll-envelopes](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 | [0881-boats-to-save-people](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0881-boats-to-save-people) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Quicksort
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0055-jump-game) |
+| [0354-russian-doll-envelopes](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 ## Recursion
 |  |
 | ------- |
@@ -232,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1095-find-in-mountain-array](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/karthikgudisetti/LeetCode-Solutions/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
